@@ -1,0 +1,14 @@
+body {
+  margin: auto;
+  padding: 20px;
+  background-color: #1f1f45;
+  color: beige;
+}
+
+h1 {
+text-align: center
+}
+
+.button {
+  display: block;
+}
